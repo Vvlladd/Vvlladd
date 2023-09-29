@@ -1,7 +1,21 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vUxZg4gUVf9Ep7IJ4u/giphy.gif?cid=ecf05e47e34mpirbfnd63xg42nli895tlyxg3twnejy84hwt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
+</div>
 
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvlladd)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <!--
 **Vvlladd/Vvlladd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
